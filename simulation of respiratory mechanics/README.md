@@ -46,9 +46,9 @@ The simulation is conducted using a **GUI-based Simulink application**:
 ### 🔵 Normal Simulation
 
 <p align="center">
-  <img src="path-to-image1.png" width="250"/>
-  <img src="path-to-image2.png" width="250"/>
-  <img src="path-to-image3.png" width="250"/>
+  <img src="simulation results/normal/normal1.png" width="33%"/>
+  <img src="simulation results/normal/normal2.png" width="33%"/>
+  <img src="simulation results/normal/normal3.png" width="33%"/>
 </p>
 
 ---
@@ -56,9 +56,9 @@ The simulation is conducted using a **GUI-based Simulink application**:
 ### 🟠 Obstructive Lung Disease Simulation
 
 <p align="center">
-  <img src="path-to-obstructive1.png" width="250"/>
-  <img src="path-to-obstructive2.png" width="250"/>
-  <img src="path-to-obstructive3.png" width="250"/>
+  <img src="simulation results/obstructive/adjust vent/obs_adj_ven1.png" width="33%"/>
+  <img src="simulation results/obstructive/adjust vent/obs_adj_vent2.png" width="33%"/>
+  <img src="simulation results/obstructive/adjust vent/obs_adj_vent3.png" width="33%"/>
 </p>
 
 ---
@@ -66,17 +66,17 @@ The simulation is conducted using a **GUI-based Simulink application**:
 ### 🔴 Restrictive Lung Disease Simulation
 
 <p align="center">
-  <img src="path-to-restrictive1.png" width="250"/>
-  <img src="path-to-restrictive2.png" width="250"/>
-  <img src="path-to-restrictive3.png" width="250"/>
+  <img src="simulation results/restrictive/adjust vent/rest_adj_vent1.png" width="33%"/>
+  <img src="simulation results/restrictive/adjust vent/rest_adj_vent2.png" width="33%"/>
+  <img src="simulation results/restrictive/adjust vent/rest_adj_vent3.png" width="33%"/>
+  
 </p>
-
 
 ### ✅ Observations:
 - **Restrictive disease**: Decreased lung compliance → lower tidal volume → reduced minute ventilation.
 - **Obstructive disease**: Increased resistance → limited airflow during inspiration → air trapping → lower effective ventilation.
 
-All simulation outputs including **graphs and screenshots** are stored in the `/graphs` folder.
+All simulation outputs including **graphs and screenshots** are stored in the `/simulation results` folder.
 
 
 ---
