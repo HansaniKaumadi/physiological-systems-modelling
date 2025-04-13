@@ -2,7 +2,7 @@
 
 This repository contains an analysis of respiratory mechanics using a simulation tool developed by **David Leonardo Rodriguez Sarmiento** and **Daniela Acevedo Guerrero (2020)**. The tool enables users to study various adult respiratory conditions such as **normal**, **restrictive**, and **obstructive pulmonary diseases**. The simulator visualizes ventilation patterns and supports the comparison of **minute ventilation** under different physiological and pathological settings.
 
-![Alt text](graphs/image1.png)
+![Alt text](model.png)
 
 ---
 
@@ -20,6 +20,12 @@ These insights help deepen our understanding of how respiratory mechanics change
 
 ## 🧰 Simulation Tool
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/7cd118c7-362b-4cd3-b15c-6cb7a611636b" width="300"/>
+</p>
+
+
+
 The simulation is conducted using a **GUI-based Simulink application**:
 
 - **Developed by**: David Leonardo Rodriguez Sarmiento and Daniela Acevedo Guerrero
@@ -36,21 +42,41 @@ The simulation is conducted using a **GUI-based Simulink application**:
 
 ## 📊 Simulation Scenarios & Results
 
-| Condition     | Lung Compliance | Airway Resistance | Peak Pressure | BPM | Minute Ventilation (approx.) |
-|---------------|------------------|--------------------|----------------|-----|-------------------------------|
-| Normal        | 0.1 L/cmH₂O      | 0.8 cmH₂O/L/s      | 10 cmH₂O       | 10  | 5.0 L/min                     |
-| Obstructive   | 0.2 L/cmH₂O      | 1.9 cmH₂O/L/s      | 12 cmH₂O       | 10  | 4.2 L/min                     |
-| Restrictive   | 0.05 L/cmH₂O     | 0.8 cmH₂O/L/s      | 16 cmH₂O       | 10  | 3.2 L/min                     |
+
+### 🔵 Normal Simulation
+
+<p align="center">
+  <img src="path-to-image1.png" width="250"/>
+  <img src="path-to-image2.png" width="250"/>
+  <img src="path-to-image3.png" width="250"/>
+</p>
+
+---
+
+### 🟠 Obstructive Lung Disease Simulation
+
+<p align="center">
+  <img src="path-to-obstructive1.png" width="250"/>
+  <img src="path-to-obstructive2.png" width="250"/>
+  <img src="path-to-obstructive3.png" width="250"/>
+</p>
+
+---
+
+### 🔴 Restrictive Lung Disease Simulation
+
+<p align="center">
+  <img src="path-to-restrictive1.png" width="250"/>
+  <img src="path-to-restrictive2.png" width="250"/>
+  <img src="path-to-restrictive3.png" width="250"/>
+</p>
+
 
 ### ✅ Observations:
 - **Restrictive disease**: Decreased lung compliance → lower tidal volume → reduced minute ventilation.
 - **Obstructive disease**: Increased resistance → limited airflow during inspiration → air trapping → lower effective ventilation.
 
 All simulation outputs including **graphs and screenshots** are stored in the `/graphs` folder.
-
----
-
-## 📂 Folder Structure
 
 
 ---
