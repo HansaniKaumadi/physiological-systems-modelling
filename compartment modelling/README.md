@@ -2,6 +2,17 @@
 
 This folder contains the solution for Assignment 5 of the BM2102 module, focusing on compartmental physiological systems modeled using **MATLAB** and **Simulink**. The assignment covers thyroid hormone dynamics (Riggs model) and glucose-insulin dynamics (Bolie’s model), including disease states such as hypothyroidism, hyperthyroidism, diabetes, goitre, tumors, and glucagon effects.
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/c357c5c1-ec16-47b8-92c2-cb58a3f278b1" width="40%"/>
+
+  <img src="https://github.com/user-attachments/assets/2d0031a9-73dd-4b55-912d-56e34ee1f345" width="20%"/>
+  
+</p>
+
+
+
+
+
 ---
 
 ## Biological Context
