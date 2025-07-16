@@ -8,15 +8,9 @@ All assignments were completed using **MATLAB** and the **CircAdapt Simulator**,
 
 ---
 
-## 📂 Repository Structure
 
-- [🌳 Dendritic Tree Approximations](./# 🧠 Physiological Systems Modelling
 
-This repository contains assignment simulations and analyses for the module **BM2102 - Modelling and Analysis of Physiological Systems**.  
 
-All assignments were completed using **MATLAB** and the **CircAdapt Simulator**, covering a range of physiological models and systems. Each folder includes the assignment report, simulation result images, and mathematical derivations or proofs.  
-
----
 
 ## 📂 Repository Structure
 
