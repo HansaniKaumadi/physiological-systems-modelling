@@ -1,18 +1,51 @@
 # 🫀 Analysis of Cardiac Physiology
 
-This repository contains the assignment **“Analysis of Cardiac Physiology”** completed as part of the *Physiological Systems Modelling* module. The simulations were performed using [CircAdapt](https://www.circadapt.org/) – a cardiovascular system simulation tool – and include a comprehensive study of cardiac dynamics under both normal and pathological conditions.
+
+This project presents a detailed analysis of cardiac physiology under two specific conditions:  
+1. **Normal cardiac rhythm**  
+2. **Cardiac rhythm in the presence of aortic valve stenosis**  
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/364017a3-7aff-49a8-907b-71f189abef43" width="600"/>
+</p>
+
+
+
+A single cardiac cycle in the human heart consists of three key phases: **atrial systole**, **ventricular systole**, and **complete cardiac diastole**. These phases are characterized by dynamic changes in physiological parameters such as chamber pressures, volumes, and valve function. These changes were visualized and interpreted using tools like the *Wigger’s Diagram*, which integrates electrical, mechanical, and acoustic events of the cardiac cycle. The simulations were performed using the  [CircAdapt Simulator (v1.1.0)](https://www.circadapt.org/), an interactive cardiovascular simulation platform capable of modeling pressure, volume, and flow relationships in a real-time heart model.  
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/4b646cf2-dd6b-4ff2-b30a-35d42f8def16" width="1000"/>
+</p>
+
+The analysis involved observing and analyzing multiple cardiac parameters, including:  
+
+- **Pressure vs. Time** plots for the left atrium, left ventricle, and aorta  
+- **Volume vs. Time** plots for the left ventricle  
+- **Flow velocities** for the aortic and mitral valves  
+- **Pressure-Volume (P-V) loops** for the left ventricle  
+
+The **REFERENCE mode** in CircAdapt was utilized to clearly identify the opening and closing events of the heart valves. To simulate aortic valve stenosis, the **valve stenosis percentage parameter** in the simulator was adjusted accordingly. Observations included:  
+
+- Timing of valve opening and closing  
+- Labeling of phases on the P-V loop  
+- Flow velocity profiles for both valves  
+- Pressure differences between chambers and vessels  
+
+This analysis highlights how cardiovascular dynamics are altered under normal and pathological conditions.  
+
+
 
 ---
 
 ## 📂 Repository Structure
 
-- **`report.pdf`**  
+- **`220735E_Modelling_Assignment_2.pdf`**  
   Detailed assignment report covering methodology, simulation results, and analysis.
 
 - **Image folders**
-  - `imgs`: General result images.  
-  - `aortic valve stenosis`: Simulation outputs related to aortic valve stenosis.  
-  - `normal sinus rhythm`: Simulation outputs for normal sinus rhythm.  
+  - `imgs`: Contains all simulation result images, organized into subfolders:
+    - `aortic valve stenosis`: Simulation outputs related to aortic valve stenosis.  
+    - `normal sinus rhythm`: Simulation outputs for normal sinus rhythm.  
 
 ---
 
@@ -57,6 +90,3 @@ Description of simulation setup using CircAdapt.
 
 ---
 
-## 📄 License
-
-This repository is for academic and educational purposes only.
