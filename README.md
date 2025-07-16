@@ -14,7 +14,7 @@ All assignments were completed using **MATLAB** and the **CircAdapt Simulator**,
 
 ## 📂 Repository Structure
 
-- [🌳 Dendritic Tree Approximations](./dendritic-tree-approximations)  
+- [🌳 Dendritic Tree Approximations](./Dendritic-Tree-Approximations)  
 - [🫀 Analysis of Cardiac Physiology](./analysis%20of%20cardiac%20physiology)  
 - [🧪 Compartment Modelling](./compartment%20modelling)  
 - [⚡ Hodgkin-Huxley Model](./hodgkin%20huxley%20model)  
