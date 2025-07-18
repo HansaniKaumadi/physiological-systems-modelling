@@ -44,11 +44,3 @@ All assignments were completed using **MATLAB** and the **CircAdapt Simulator**,
 ---
 
 
-
-## 🛠 Tools & Technologies
-
-- **MATLAB**  
-- **CircAdapt Simulator**  
-
----
-
